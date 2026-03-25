@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Karimartcode.png" width="150" style="border-radius:50%"/>
+
 # Abdelkarim Mouachiq
 
 **ML Engineer | Data Scientist | NLP & Computer Vision**
