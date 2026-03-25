@@ -68,7 +68,3 @@ I build things with data — from deep learning pipelines to NLP systems and com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-[![Email](https://img.shields.io/badge/Email-abmou87@ulaval.ca-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abmou87@ulaval.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkarim-mouachiq/)
