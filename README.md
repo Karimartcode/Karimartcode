@@ -69,19 +69,3 @@ Building intelligent systems — from deep learning pipelines to production-read
 </tr>
 </table>
 
----
-
-<div align="center">
-
-`French (Native)` `English (Advanced)` `Arabic (Native)` `German (Beginner)`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karimartcode&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karimartcode&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karimartcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
-
-</div>
