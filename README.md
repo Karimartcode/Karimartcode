@@ -6,7 +6,6 @@
 
 Building intelligent systems — from deep learning pipelines to production-ready NLP and computer vision solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkarim-mouachiq/)
 
 </div>
 
