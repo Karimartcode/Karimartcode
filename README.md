@@ -13,7 +13,7 @@
 </td>
 <td>
 <h1>Abdelkarim Mouachiq</h1>
-<strong>ML Engineer | Data Scientist | NLP & Computer Vision</strong>
+<strong>ML Engineer | Data Scientist</strong>
 <br><br>
 Building intelligent systems — from deep learning pipelines to production-ready NLP and computer vision solutions.
 </td>
