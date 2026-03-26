@@ -6,22 +6,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="150">
-<img src="https://github.com/Karimartcode.png" width="150"/>
-</td>
-<td>
-<h1>Abdelkarim Mouachiq</h1>
-<strong>ML Engineer | Data Scientist</strong>
-<br><br>
-Building intelligent systems — from deep learning pipelines to production-ready NLP and computer vision solutions.
-</td>
-</tr>
-</table>
-
----
-
 ### Languages & Programming
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
