@@ -6,12 +6,22 @@
 
 ---
 
+### About
+
+- Bachelor in **Computer Science, Electronics & Embedded Systems**
+- Master in **Artificial Intelligence & Data Science**
+- Building end-to-end ML pipelines from raw data to production
+- Exploring **LLMs**, **RAG architectures**, and **AI Agents**
+
+---
+
 ### Languages & Programming
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 
 ### Machine Learning & AI
@@ -19,8 +29,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### Databases
@@ -35,6 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -44,11 +59,11 @@
 
 | Domain | Details |
 |:---|:---|
-| **Machine Learning** | Classification, regression, CNNs, ResNet, anomaly detection |
-| **NLP** | Text preprocessing, sentiment analysis, LLMs, AI agents, summarization |
-| **Computer Vision** | Image classification, GradCAM, medical imaging pipelines |
-| **Data Engineering** | ETL pipelines, data cleaning, automation, Streamlit dashboards |
-| **Signal Processing** | FFT, digital filtering, sensor data analysis |
+| **Machine Learning** | Classification, regression, CNNs, ResNet, anomaly detection, ensemble methods, reinforcement learning |
+| **NLP** | Text preprocessing, sentiment analysis, LLMs, AI agents, RAG, summarization, NER, tokenization |
+| **Computer Vision** | Image classification, GradCAM, medical imaging pipelines, object detection (YOLO), face recognition |
+| **Data Engineering** | ETL pipelines, data cleaning, automation, Streamlit dashboards, stream processing, data warehousing |
+| **Signal Processing** | FFT, digital filtering, ECG analysis, radar signal processing, spectrum analysis |
 
 ---
 
@@ -62,3 +77,4 @@
 <td align="center"><strong>Generative AI</strong><br><sub>Microsoft</sub></td>
 </tr>
 </table>
+
