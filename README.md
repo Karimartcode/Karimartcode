@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="Qh4wsa8kVBq82e1TF9HL1MsoY_JM3mlc9HQEKR5JCzY" />
+
 <div align="center">
 
 # Abdelkarim MOUACHIQ
