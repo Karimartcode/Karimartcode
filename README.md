@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Computer+Vision+%7C+Reinforcement+Learning;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Transformers;Turning+data+into+intelligent+systems)](https://git.io/typing-svg)
 
-
+# Abdelkarim MOUACHIQ
 
 </div>
 
